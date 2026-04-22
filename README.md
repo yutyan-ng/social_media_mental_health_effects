@@ -1,13 +1,13 @@
-# Effects of social media on mental health in times of crisis
+<img width="468" height="421" alt="image" src="https://github.com/user-attachments/assets/fec6702c-073c-4939-9336-2841e9d3e481" /># Effects of social media on mental health in times of crisis
 
 ## Table of Contents
-1. [Project Description](#🫧-project-description)
-2. [Sources](🔗-sources)
-3. [Research Summary](🔍-research-summary)
-4. [STEEPLE Analysis](🧩-steeple-analysis)
-5. [Interactive Model and Results](🫆-interactive-model-and-results)
-6. [Usage](💻-usage)
-7. [Support Information](👤-support-information)
+1. [🫧 Project Description](#project-description)
+2. [🔗 Sources](sources)
+3. [🔍 Research Summary](research-summary)
+4. [🧩 STEEPLE Analysis](steeple-analysis)
+5. [🫆 Interactive Model and Results](interactive-model-and-results)
+6. [💻 Usage](usage)
+7. [👤 Support Information](support-information)
 
 ---
 
@@ -16,6 +16,14 @@
 ---
 
 ## 🔗 Sources
+
+1. Feten Fekih-Romdhane, M. H. (2024, June). Mediating effect of depression and acute stress between exposure to Israel-Gaza war media coverage and insomnia: a multinational study from five arab countries. Retrieved from PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC11151504/
+2. Kübra Gülırmak Güler, E. A. (2024, October 28). Fronts in Minds: A Phenomenological Study on the Effects of War News on Collective Mental Health . Retrieved from Wiley Online Library: https://onlinelibrary-wiley-com.wwwproxy1.library.unsw.edu.au/doi/full/10.1111/phn.13458
+3. Nawara Kirallah Abd El Fatah, A. M.-A. (2025, June 16). Unseen Battles: The Impact of War Media Exposure on Stress, Anxiety and Persistent Thinking Among Elderly Community Dwellers: A Cross-Sectional Study. Retrieved from Wiley Online Library: https://onlinelibrary-wiley-com.wwwproxy1.library.unsw.edu.au/doi/full/10.1111/inm.70082
+4. Tali Gazit, S. E. (2025, November 6). From Screens to Scars: Understanding the Association Between Social Media Engagement and Trauma During Crises and Emergency Situations. Retrieved from Wiley Online LIbrary: https://onlinelibrary.wiley.com/doi/10.1002/smi.70115
+5. Yael Malin, Y. G. (2026, July). Mental health during war: Social media use and protective factors among adolescents and young adults. Retrieved from ScienceDirect: https://www-sciencedirect-com.wwwproxy1.library.unsw.edu.au/science/article/pii/S0747563226000336
+<img width="468" height="421" alt="image" src="https://github.com/user-attachments/assets/3b66f57d-0ebc-424f-9bb8-ae62941fcba8" />
+
 
 ---
 
