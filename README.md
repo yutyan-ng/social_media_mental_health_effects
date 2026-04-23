@@ -10,7 +10,7 @@
 4. [🧩 STEEPLE Analysis](steeple-analysis)
 5. [🫆 Interactive Model and Results](interactive-model-and-results)
 6. [💻 Usage](usage)
-7. [💭 Future recommendations](future-recommendations)
+7. [💭 Future Recommendations](future-recommendations)
 8. [👤 Support Information](support-information)
 
 ---
@@ -104,7 +104,7 @@ Overall, the model and visualisations suggest that **social media has a signific
 
 ---
 
-## 💭 Future recommendations
+## 💭 Future Recommendations
 
 Keeping the STEEPLE analysis in consideration, the technological and ethical factors can be further explored in the future to ensure the safety of social media use and build more resilience support systems, leveraging artificial intelligence in personalised resources and scalable systems across affected populations.
 
@@ -142,7 +142,7 @@ This slider on the top right controls how many hours of daily social media usage
 - Sheet 2: Compare circle sizes across the 3 content type columns (distressing, encouraging, mixed) and across age groups
 - Sheet 3: Steeper lines indicate platforms where additional usage has a stronger impact on trauma levels
 
-### Interpreting the Scorse
+### Interpreting the Scores
 
 All predicted scores are on a 0 to 10 scale, which is synthesised from the 5 sources.
 
