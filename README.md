@@ -1,6 +1,6 @@
 # Effects of social media on mental health in times of crisis
 
-![Cover image](cover-image.jpg)
+![Cover image](cover image.jpg)
 
 
 ## Table of Contents
