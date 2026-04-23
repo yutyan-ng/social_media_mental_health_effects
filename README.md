@@ -1,5 +1,8 @@
 # Effects of social media on mental health in times of crisis
 
+![Cover image](cover-image.jpg)
+
+
 ## Table of Contents
 1. [🫧 Project Description](#project-description)
 2. [🔗 Sources](sources)
@@ -65,7 +68,7 @@ Across all five papers, it is concluded that social media only affects mental he
 ## 🧩 STEEPLE Analysis
 
 | **STEEPLE** | **Description** |
-|----------- -|----------------------------------|
+|------------|----------------------------------|
 | `Social` | Social media platforms such as Twitter, Instagram, TikTok, etc. and online debates can trigger both positive and negative emotions such as distress, anxiety, o mood boosts |
 | `Technological` | Personalised algorithm feeds and unfiltered content may increase the exposure of distressing/encouraging images and videos – how unfiltered/filtered/biased are these content? |
 | `Economic` | Socioeconomic status may affect the access of social media and resilience resources, and economic instabilities further drives anxiety and future uncertainties of the global economy |
