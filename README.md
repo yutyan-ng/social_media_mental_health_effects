@@ -7,11 +7,25 @@
 4. [🧩 STEEPLE Analysis](steeple-analysis)
 5. [🫆 Interactive Model and Results](interactive-model-and-results)
 6. [💻 Usage](usage)
-7. [👤 Support Information](support-information)
+7. [💭 Future recommendations](future-recommendations)
+8. [👤 Support Information](support-information)
 
 ---
 
 ## 🫧 Project Description
+
+The rapid advancement of technological tools and increasing usage of social media platforms have reshaped the way people communicate with each other, social perspectives, and coping mechanisms. This project investigates the extent to which social media negatively impacts the mental health of the general population during times of crisis, including wars and periods of economic instability. Through an extensive research of publicly available articles and datasets, this project examines how social media affects mental health and resilienece levels across different demographics such as young adults and the elderly, and how individuals are navigating an increasingly uncertain future shaped by both real-world conflict and its digital representation.
+
+### To what extent does social media have a negative effect on mental health of the general population in times of crisis?
+
+Ultimately, this project aims to develop predictive and interactive models that capture the complex relationship between social media use and mental health outcomes, contributing to a broader understanding of how advancement of technological tools can both challenge and support our society's resilience in times of crisis.
+
+The project outline includes
+- Identifying key variables that directly and indirectly influence coping behaviours and resilience levels
+- Understanding the role of social media in social support
+- Identifying the psychological consequences of war media exposure
+- Identifying the interactions of different types of social media engagement on mental health
+- Developing predictive and interactive models capturing the relationship between of social media use and mental health outcomes
 
 ---
 
@@ -47,6 +61,10 @@ Across all five papers, it is concluded that social media only affects mental he
 ## 🫆 Interactive Model and Results
 
 The interactive model is a combination of 3 visualisations that predicts the average distress and trauma levels based on several factors such as social media platform, usage in hours, age group, and content type. The slider on the top left corner is an interactive feature that allows the user to slide from a minimum of 1 hour, to a maximum of 5 hours of time spent on social media platforms. The visualisations are also customisable with other variables such as prediction depression or insomnia, war media exposure hours, and coping levels based on the user’s needs.
+
+---
+
+## 💭 Future recommendations
 
 ---
 
