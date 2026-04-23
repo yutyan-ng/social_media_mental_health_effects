@@ -49,6 +49,7 @@ Across all five papers, it is concluded that social media only affects mental he
 
 ## 🧩 STEEPLE Analysis
 
+|-------------|----------------------------------|
 | `Social` | Social media platforms such as Twitter, Instagram, TikTok, etc. and online debates can trigger both positive and negative emotions such as distress, anxiety, o mood boosts |
 | `Technological` | Personalised algorithm feeds and unfiltered content may increase the exposure of distressing/encouraging images and videos – how unfiltered/filtered/biased are these content? |
 | `Economic` | Socioeconomic status may affect the access of social media and resilience resources, and economic instabilities further drives anxiety and future uncertainties of the global economy |
@@ -61,6 +62,12 @@ Across all five papers, it is concluded that social media only affects mental he
 ## 🫆 Interactive Model and Results
 
 The interactive model is a combination of 3 visualisations that predicts the average distress and trauma levels based on several factors such as social media platform, usage in hours, age group, and content type. The slider on the top left corner is an interactive feature that allows the user to slide from a minimum of 1 hour, to a maximum of 5 hours of time spent on social media platforms. The visualisations are also customisable with other variables such as prediction depression or insomnia, war media exposure hours, and coping levels based on the user’s needs.
+
+<p align="center">
+  <img src="tableau_dashboard.png" alt="SpeedPath values"/>
+  <br>
+  <em>Interactive Tableau dashboard</em>
+</p>
 
 ---
 
