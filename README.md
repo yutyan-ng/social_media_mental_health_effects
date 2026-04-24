@@ -4,14 +4,14 @@
 
 
 ## Table of Contents
-1. [🫧 Project Description](#project-description)
-2. [🔗 Sources](#sources)
-3. [🔍 Research Summary](#research-summary)
-4. [🧩 STEEPLE Analysis](#steeple-analysis)
-5. [🫆 Interactive Model and Results](#interactive-model-and-results)
-6. [💻 Usage](#usage)
-7. [💭 Future Recommendations](#future-recommendations)
-8. [👤 Support Information](#support-information)
+1. [🫧 Project Description](#-project-description)
+2. [🔗 Sources](#-sources)
+3. [🔍 Research Summary](#-research-summary)
+4. [🧩 STEEPLE Analysis](#-steeple-analysis)
+5. [🫆 Interactive Model and Results](#-interactive-model-and-results)
+6. [💻 Usage](#-usage)
+7. [💭 Future Recommendations](#-future-recommendations)
+8. [👤 Support Information](#-support-information)
 
 ---
 
