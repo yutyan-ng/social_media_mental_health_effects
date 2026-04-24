@@ -118,7 +118,7 @@ Overall, these measures are crucial to reducing mental health risks and preventi
 
 ## 💻 Usage
 
-Download the Tableau workbook that contains the final interactive model and launch it on either Tableau Public or the software itself.
+Download the Tableau workbook, Effects of Social Media Usage Model.twbx, which contains the final interactive model and launch it on either Tableau Public or the software itself.
 
 ### Navigating the Workbook
 
